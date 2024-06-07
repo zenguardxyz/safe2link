@@ -1,7 +1,7 @@
 {
-  "short_name": "Safe2Link App",
-  "name": "Safe2Link App",
-  "description": "Share crypto directly from your Safe with links",
+  "short_name": "SafeLink App",
+  "name": "SafeLink App",
+  "description": "Share crypto from your Safe via links",
   "iconPath": "logo192.png",
   "icons": [
     {
